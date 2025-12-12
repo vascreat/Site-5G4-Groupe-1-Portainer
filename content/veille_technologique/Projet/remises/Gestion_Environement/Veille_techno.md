@@ -153,9 +153,9 @@ Si vous voulez gérer des conteneurs sans douleur, c'est le standard de facto. P
 
 {{% /expand %}}
 
-Si Copilot donner des réponse courte par rapport au sujet du prompt, les réponse de Gemini contener plus d'éxplication et d'ouverture.
+Si Copilot donne des réponses courtes par rapport au sujet du prompt, les réponses de Gemini contiennent plus d'explications et d'ouverture sur le sujet, comme des exemples et une opinion sur l'utilisation de Portainer.
 
-## Les réponse du moteur de recherche
+## Les réponses du moteur de recherche
 
 Le moteur de recherche donner souvent les meme lien envers des article informatique avec une introduction sur Portainer et ses fonctionnalité. Suivi d'un guide sur l'installation et l'utilisation de Portainer.
 
@@ -165,6 +165,6 @@ https://www.cachem.fr/portainer-docker/
 https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/portainer/
 
 
-# Article
+# Les articles récents
 **La panne de Caudflare :** https://www.cnn.com/2025/11/18/tech/cloudflare-down-outage-cause" </br>
 **La panne de Caudflare :** https://www.youtube.com/watch?v=tF_4baiIUiQ
